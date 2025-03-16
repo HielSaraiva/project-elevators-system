@@ -1,9 +1,17 @@
 # Elevators System Project
 
+## Table of Contents
+
+1.
+
+---
+
 ## 🎯General Objective
 
 - Data Structure work that consists of creating an elevator system using pointers in C.
 - Implement some data structures learned in the course in this project.
+
+---
 
 ## 📝Instructions
 
@@ -82,7 +90,7 @@ Pm - person m
 - T5_P01_S_4_6 means that person 1 at time 5 seconds was on the 4th floor and when he enters the elevator he will press
   the button to go to the 6th floor.
 
-##  
+--- 
 
 ## 🗂️Project Overview
 
@@ -137,14 +145,20 @@ Pm - person m
 
 - The next passenger to disembark is always the next on the elevator route.
 
+---
+
 ## 🏆Team
 
 - Conrado Einstein
 - Hiel Saraiva
 
+---
+
 ## 🆙Versions
 
 - C99
+
+---
 
 ## 🔧Tools
 
