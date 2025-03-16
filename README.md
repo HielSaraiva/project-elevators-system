@@ -2,7 +2,19 @@
 
 ## Table of Contents
 
-1.
+1. [General Objective](#general-objective)
+2. [Instructions](#instructions)
+   1. [General Considerations](#general-considerations)
+   2. [Considerations for Simulation/Modeling](#️considerations-for-simulationmodeling)
+   3. [Parameters to be considered](#parameters-to-be-considered)
+   4. [Case Studies](#case-studies)
+   5. [Example](#example)
+3. [Project Overview](#️project-overview)
+   1. [Single Elevator](#single-elevator)
+   2. [Multi Elevators](#multi-elevators)
+4. [Team](#team)
+5. [Versions](#versions)
+6. [Tools](#tools)
 
 ---
 
